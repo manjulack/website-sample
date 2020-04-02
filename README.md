@@ -1,3 +1,3 @@
 # website-sample
 
-sameple file
+sameple file :1
